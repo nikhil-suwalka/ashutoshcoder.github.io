@@ -2,7 +2,7 @@
 date: '2016-05-12'
 title: 'Intermediate'
 company: 'DBMS English School'
-location: 'Jamshedour, India'
+location: 'Jamshedpur, India'
 range: '2014-2016'
 url: 'https://dbms.edu.in/'
 ---

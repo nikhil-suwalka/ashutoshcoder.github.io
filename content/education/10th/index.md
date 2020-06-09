@@ -2,7 +2,7 @@
 date: '2014-05-21'
 title: 'Matriculation'
 company: 'Sri Krishna Public School'
-location: 'Jamshedour, India'
+location: 'Jamshedpur, India'
 range: '2002 - 2014'
 url: 'https://www.srikrishnapublicschooljsr.com/'
 ---
