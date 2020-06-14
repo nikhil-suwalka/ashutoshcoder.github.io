@@ -1,13 +1,13 @@
 ---
 date: '2016-05-12'
 title: 'Intermediate'
-company: 'DBMS English School'
-location: 'Jamshedpur, India'
+company: 'St. Paul's Senior Secondary School'
+location: 'Udaipur, India'
 range: '2014-2016'
 url: 'http://www.stpaulsudaipur.com/'
 ---
 
-- Percentage - 92.25%
-- Board - ISC
-- Stream - Commerce & Computer Science
+- Percentage - 65.6%
+- Board - CBSE
+- Stream - Commerce with Maths
 - Medium - English
