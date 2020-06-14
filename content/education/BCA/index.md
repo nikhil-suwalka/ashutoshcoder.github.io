@@ -7,7 +7,6 @@ range: '2016 - 2019'
 url: 'https://www.sicsr.ac.in/home/'
 ---
 
-- Percentage - 9.2 CGPA / 92%
-- Recognition - BCA Gold Medalist
+- Percentage - 8.17 CGPA / 81.7%
 - Stream - Computer Applications
 - Medium - English
