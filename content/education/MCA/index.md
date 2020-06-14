@@ -1,4 +1,3 @@
-
 ---
 date: '2019-06-06'
 title: 'Master of Computer Applications'
