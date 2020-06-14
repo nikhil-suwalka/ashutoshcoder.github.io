@@ -1,12 +1,13 @@
 ---
 date: '2014-05-21'
 title: 'Matriculation'
-company: 'St. Paul's Senior Secondary School'
-location: 'Udaipur, India'
+company: 'Sri Krishna Public School'
+location: 'Jamshedpur, India'
 range: '2002 - 2014'
 url: 'https://www.srikrishnapublicschooljsr.com/'
 ---
 
-- Percentage - 62.2%
-- Board - CBSE
+- Percentage - 88.8%%
+- Board - ICSE
+- Stream - Science
 - Medium - English
