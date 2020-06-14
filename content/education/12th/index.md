@@ -1,7 +1,7 @@
 ---
 date: '2016-05-12'
 title: 'Intermediate'
-company: 'St. Paul's Senior Secondary School'
+company: "St. Paul's Senior Secondary School"
 location: 'Udaipur, India'
 range: '2014-2016'
 url: 'http://www.stpaulsudaipur.com/'
