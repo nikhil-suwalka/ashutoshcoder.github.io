@@ -4,7 +4,7 @@ title: 'Intermediate'
 company: 'DBMS English School'
 location: 'Jamshedpur, India'
 range: '2014-2016'
-url: 'https://dbms.edu.in/'
+url: 'http://www.stpaulsudaipur.com/'
 ---
 
 - Percentage - 92.25%
